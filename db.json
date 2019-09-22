@@ -7,11 +7,11 @@
   {
     "id": 2,
     "title": "Book 2",
-    "author":"Zoahib Hussain"
+    "author":"Zoahib Hussain",
   },
   {
     "id": 3,
     "title": "Book 3",
-    "author":"New Author"
+    "author":"New Author",
   }
 ]
